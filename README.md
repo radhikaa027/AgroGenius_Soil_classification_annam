@@ -1,7 +1,3 @@
-Here’s a **refined and professional version** of your README — concise, structured, and polished while keeping all the technical depth intact.
-
----
-
 # 🌱 AgroGenius — Soil Classification Challenges
 
 This repository contains the solutions developed by **Team AgroGenius** for two soil classification challenges.
