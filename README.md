@@ -113,7 +113,7 @@ We built an end-to-end, class-imbalance–resilient pipeline:
 | Validation Loss     | ↓ to 0.0154 (epoch 21) |
 | Validation Accuracy | **98.8%**              |
 | Weighted F1 Score   | **0.9878**             |
-| Leaderboard Rank    | **#96**                |
+| Leaderboard Rank    | **#69**                |
 
 ✅ The combination of stratified sampling, weighted focal loss, adaptive learning rates, and the Swin Transformer backbone yielded near–state-of-the-art results.
 
@@ -187,7 +187,7 @@ We framed the problem as **anomaly detection**:
 | ----------------- | ------------------------------------------------------------------------------- |
 | Approach          | ResNet50 + Autoencoder                                                          |
 | Training Strategy | Soil-only reconstruction learning                                               |
-| Leaderboard Score | **91%**                                                                         |
+| Leaderboard Rank  | **#32**                                                                         |
 | Key Insight       | Modeling "normal" soil patterns enables effective anomaly-based soil detection. |
 
 ✅ The Autoencoder effectively captured the intrinsic “soil-ness” of images, enabling accurate identification of non-soil anomalies.
